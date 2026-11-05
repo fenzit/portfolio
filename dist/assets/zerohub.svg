@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">ZeroHub — an orbital map of university discovery</title>
+  <desc id="desc">A conceptual university selection map. Cobalt and violet orbital paths connect a central ZeroHub mark to university, interests, and opportunity symbols. A third place ITFest award appears in the corner.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b3baff" stroke-opacity=".04"/></pattern></defs>
+  <path fill="#10121b" d="M0 0h960v620H0z"/><path fill="url(#grid)" d="M0 0h960v620H0z"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g font-size="11" letter-spacing="2" fill="#a8adc2"><text x="48" y="49">ZEROHUB / SYSTEM STUDY</text><text x="912" y="49" text-anchor="end">02 — FIND YOUR ORBIT</text></g><path d="M48 70H912" stroke="#303445"/>
+    <text x="49" y="131" fill="#f1f0eb" font-size="38" letter-spacing="-1.3">A direction worth exploring.</text>
+    <text x="50" y="157" fill="#858da8" font-size="11" letter-spacing="1.8">UNIVERSITY DISCOVERY, CONNECTED</text>
+    <g fill="none"><ellipse cx="476" cy="348" rx="303" ry="118" transform="rotate(-17 476 348)" stroke="#485bda" stroke-width="1.2"/><ellipse cx="476" cy="348" rx="250" ry="177" transform="rotate(21 476 348)" stroke="#655098" stroke-width="1.2"/><circle cx="476" cy="348" r="138" stroke="#41485f" stroke-dasharray="2 9"/><path d="M173 348h606M476 175v346" stroke="#283043" stroke-dasharray="3 7"/></g>
+    <g fill="#10121b" stroke="#3b435d"><circle cx="476" cy="348" r="93"/><circle cx="476" cy="348" r="80"/></g>
+    <path d="M449 266a86 86 0 0 1 109 66" fill="none" stroke="#7589ff" stroke-width="3"/>
+    <text x="476" y="342" text-anchor="middle" fill="#e5e9ff" font-size="35" letter-spacing="5">ZERO</text><text x="478" y="375" text-anchor="middle" fill="#8b9cff" font-size="24" letter-spacing="10">HUB</text>
+    <g fill="#191e31" stroke="#6577e5"><rect x="199" y="286" width="82" height="82" rx="41"/><rect x="657" y="357" width="82" height="82" rx="41"/></g>
+    <circle cx="602" cy="211" r="34" fill="#292040" stroke="#9b7ad9"/>
+    <g fill="none" stroke="#b8c3ff" stroke-width="1.5"><path d="m220 317 20-10 20 10-20 10zM227 322v15q13 8 26 0v-15m7-5v20"/><path d="m677 392 21-11 21 11h-42m5 5v18m10-18v18m10-18v18m10-18v18m-36 3h44"/><path d="m602 193 4 11 12 1-9 8 3 12-10-6-10 6 3-12-9-8 12-1z" stroke="#c6a8f6"/></g>
+    <g font-size="9" letter-spacing="1.6" fill="#a6b0d5"><text x="240" y="389" text-anchor="middle">UNIVERSITIES</text><text x="698" y="459" text-anchor="middle">POSSIBILITIES</text><text x="649" y="207" fill="#b59bdc">YOUR INTERESTS</text></g>
+    <g fill="#7c8fff"><circle cx="330" cy="208" r="4"/><circle cx="421" cy="497" r="4"/><circle cx="780" cy="281" r="4"/></g><g fill="#b28ddd"><circle cx="277" cy="420" r="3"/><circle cx="552" cy="502" r="3"/><circle cx="731" cy="274" r="3"/></g>
+    <g stroke="#5b6380" fill="none"><path d="M330 208v-19h-49M277 420h-65v22M780 281h32v-19"/></g>
+    <g fill="#76809f" font-size="8" letter-spacing="1.5"><text x="235" y="183">EXPLORE</text><text x="181" y="458">DISCOVER</text><text x="795" y="252">CONNECT</text></g>
+    <path d="M48 548H912" stroke="#303445"/>
+    <g transform="translate(52 563)" fill="none" stroke="#b99b72" stroke-width="1.2"><path d="m5 0 6 12 7-12M8 9l-4 9m10-9 4 9"/><circle cx="11" cy="22" r="8"/></g><text x="85" y="577" fill="#cdb79b" font-size="11" letter-spacing="1.2">3RD PLACE</text><text x="85" y="593" fill="#747d98" font-size="9" letter-spacing="1.6">ITFEST 2025</text><text x="912" y="581" text-anchor="end" fill="#737d99" font-size="10" letter-spacing="1.5">CONCEPTUAL DIAGRAM</text>
+  </g>
+</svg>
